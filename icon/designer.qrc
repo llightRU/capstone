@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="images">
+        <file>add.png</file>
+        <file>delete.png</file>
+        <file>hint.png</file>
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>save.png</file>
+        <file>search.png</file>
+        <file>restart.png</file>
+        <file>menu.png</file>
+        <file>app.png</file>
+        <file>pie_chart.png</file>
+        <file>result.png</file>
+        <file>statiscal.png</file>
+        <file>note.png</file>
+        <file>predict.png</file>
+        <file>execute.png</file>
+        <file>design.png</file>
+        <file>build.png</file>
+        <file>view.png</file>
+        <file>close.png</file>
+        <file>back-ground.jpg</file>
+        <file>back-ground2.jpg</file>
+    </qresource>
+</RCC>

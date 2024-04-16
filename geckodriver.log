@@ -1,0 +1,92 @@
+1711979952768	geckodriver	INFO	Listening on 127.0.0.1:60387
+1711979955805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gli\\AppData\\Local\\Temp\\rust_mozprofileCeLfKn"
+1711980009795	geckodriver	INFO	Listening on 127.0.0.1:60487
+1711980012828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gli\\AppData\\Local\\Temp\\rust_mozprofileXR7ZLP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711980013639	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711980014292	Marionette	INFO	Listening on port 60500
+Read port: 60500
+1711980014591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1, line 513: Script terminated by timeout at:
+aa.hh@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:513:89
+get@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:511:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:511:87
+aa.mk/c/<@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:511:412
+
+1711980023431	Marionette	INFO	Stopped listening on port 60500
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1711980026500	geckodriver	INFO	Listening on 127.0.0.1:60542
+1711980029552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gli\\AppData\\Local\\Temp\\rust_mozprofileE0IgJ7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711980030068	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711980030565	Marionette	INFO	Listening on port 60553
+Read port: 60553
+1711980030770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1, line 513: Script terminated by timeout at:
+aa.hh@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:513:42
+get@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:511:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:511:87
+aa.mk/c/<@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:511:412
+
+1711980036266	Marionette	INFO	Stopped listening on port 60553
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1711980334753	geckodriver	INFO	Listening on 127.0.0.1:60729
+1711980337800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gli\\AppData\\Local\\Temp\\rust_mozprofileNGIwDP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711980338554	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711980339224	Marionette	INFO	Listening on port 60741
+Read port: 60741
+1711980339420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1, line 513: Script terminated by timeout at:
+aa.hh@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:513:42
+get@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:511:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:511:87
+aa.mk/c/<@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:511:412
+
+1711980362773	Marionette	INFO	Stopped listening on port 60741
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1712406652922	geckodriver	INFO	Listening on 127.0.0.1:64399
+1712406656001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gli\\AppData\\Local\\Temp\\rust_mozprofileIIm3XX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712406656786	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712406657452	Marionette	INFO	Listening on port 64415
+Read port: 64415
+1712406657813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1712406686822	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1, line 507: Script terminated by timeout at:
+aa.hh@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:507:89
+get@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:505:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:505:87
+aa.nk/c/<@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:505:412
+
+1712406727078	Marionette	INFO	Stopped listening on port 64415
+Dynamically enable window occlusion 1
+1713190621419	geckodriver	INFO	Listening on 127.0.0.1:62377
+1713190624487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Gli\\AppData\\Local\\Temp\\rust_mozprofileNQ5Cls"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713190625178	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713190626439	Marionette	INFO	Listening on port 62389
+Read port: 62389
+1713190626690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1, line 518: Script terminated by timeout at:
+aa.mh@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:518:89
+get@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:516:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:516:87
+aa.tk/c/<@https://www.googletagmanager.com/gtag/js?id=G-Z59N203H17&cx=c&_slc=1:516:412
+
+1713190633715	Marionette	INFO	Stopped listening on port 62389
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
